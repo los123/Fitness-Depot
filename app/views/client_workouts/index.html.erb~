@@ -1,4 +1,9 @@
-<h1>Workout listings</h1>
+<h1><center><font color="green">Fitness Depot workout listings</center></font color></h1>
+<br></br>
+<!-- BANNER CODE -->
+<center> <a href="" target="_top"><img src="http://www.fitness-iq.co.uk/wp-content/header-images/fitness_banner_running2.jpg" width=750 height=120 border=1 ALT="Click to Visit"></a> </center>
+<!-- END BANNER CODE -->
+<br></br>
 
 <table>
   <tr>
@@ -28,4 +33,4 @@
 
 <br />
 
-<%= link_to 'New Client workout', new_client_workout_path %>
+<font size=2><b><%= link_to 'New Client workout', new_client_workout_path %></b></fornt size>
