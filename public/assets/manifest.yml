@@ -1,4 +1,9 @@
 ---
+banner.jpg: banner-57abafe4b038eb20d6cd34e0017d36f4.jpg
+bg.gif: bg-6f5cecfa0e8859b7d11a06c354de0f6e.gif
+bg1.gif: bg1-e20bcc79e842e9e0414ef64822e21a9a.gif
+bg1.jpg: bg1-96d040a4d7ff7bef53c909700daf333e.jpg
+bg2.jpg: bg2-209a06bcef5db6ceaa6265a78ae92e97.jpg
 img01.jpg: img01-49f3cded119ae5c106b6fefd5d73d672.jpg
 img02.jpg: img02-ebb3aa2824025ab9b791794b171c0a4a.jpg
 img03.jpg: img03-d69f6484f6319b374fcb8c8b97159d0e.jpg
@@ -11,4 +16,4 @@ img09.jpg: img09-fbaa8a05d024a789036b80e0bbdaaceb.jpg
 img10.gif: img10-3c7459eebdfaec54f6f49df30b20dd91.gif
 rails.png: rails-e4b51606cd77fda2615e7439907bfc92.png
 application.js: application-dd7ac273fec37d320a3ce1ad7d7ab517.js
-application.css: application-e9c9a37ddf3cb32504f90605fe0c7fd1.css
+application.css: application-3e28acd0f42406da22e5b606f7325ff2.css
